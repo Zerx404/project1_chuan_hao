@@ -1,5 +1,0 @@
-export const categories = [
-  { id: 1, name: "Điện thoại" },
-  { id: 2, name: "Laptop" },
-  { id: 3, name: "Phụ kiện" },
-];
